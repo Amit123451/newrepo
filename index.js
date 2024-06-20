@@ -32,7 +32,13 @@ const prd=()=>{
     return a*b;
 }
 
+const sub3=(a,b)=>{
+    return a-b;
+}
 
+const prd3=()=>{
+    return a*b;
+}
 const writeName=()=>{
     console.log("Hey !! How r u???");
 }
