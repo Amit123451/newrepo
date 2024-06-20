@@ -44,3 +44,8 @@ const writeName=()=>{
 })();
 
 
+(()=>{
+    console.log("Self Invoked Aerrow function");
+ })();
+ 
+ 
