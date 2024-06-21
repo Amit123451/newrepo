@@ -2,7 +2,9 @@ const sum=(a,b)=>{
     return a+b;
 }
 
-
+const WriteName=()=>{
+    console.log("Name  is Something");
+}
 
 
 const sub1=(a,b)=>{
